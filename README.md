@@ -1,4 +1,4 @@
-# BioNER (Biomedical Named Entity Recognition) Project Named Entity recognition using BioRed dataset
+# BioNER (Biomedical Named Entity Recognition) Project: Named Entity recognition using BioRed dataset
 ## Overview
 This repository contains my attempt to solve the Named Entity Recognition (NER) task on the BioRed dataset using a Convolutional Neural Network (CNN) implemented with the spaCy library. <br>
 The project explores various experiments, including preprocessing steps such as lemmatization and stemming, aimed at improving the model's performance. Additionally, I have considered potential experiments involving transformer architectures and exploring the impact of weighted loss.<br>
