@@ -10,7 +10,7 @@ In the pursuit of better model performance, I experimented with lemmatization an
 
 ## Possible experiments to improve the model
 ### Transformer Architecture
-There's an ongoing exploration of the transformer architecture for NER. Check the experiments/transformer_experiment.ipynb notebook for details.
+There's an ongoing exploration of the transformer architecture for NER. Check the <i>NER.ipynb</i> notebook for details.
 
 ### Weighted Loss
 Experimented with different loss weightings to assess their impact on model training and performance.
